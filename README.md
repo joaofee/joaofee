@@ -1,11 +1,10 @@
 Olá, eu sou o João Ferreira
 
-Trabalhando com projetos em Python(Pandas,Selenium), SQL/MySQL , Machine Learning
-
+Trabalhando com projetos em Java Script / HTML / CSS3
 
 
 - 🔭 Disponivel no mercado.
-- 🌱 Atualmente estou terminando minha graduação em administração e estudando Data Science
+- 🌱 Graduando em Analise e Desenvolvimento de Sistemas e me especializando em FrontEnd e estudante amador de React.
 - 📫 contate-me : jvfcdigital@gmail.com
 - 😄 Pronouns: Ele/dele
 <div align="center">
