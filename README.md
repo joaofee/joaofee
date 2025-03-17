@@ -1,12 +1,11 @@
-Olá, eu sou o João Ferreira
-
-Trabalhando com projetos em Java Script / HTML / CSS3
+Olá, eu sou o João Ferreira Consultor de Negócios e Tecnologia, especializado em Data Science.
+Ambiente destinado a trabalho profissionais.
 
 
 - 🔭 Disponivel no mercado.
-- 🌱 Graduando em Analise e Desenvolvimento de Sistemas e me especializando em FrontEnd e estudante amador de React.
+- 🌱 Administrador e Pós Graduando em BI Analytics.
 - 📫 contate-me : jvfcdigital@gmail.com
-- 😄 Pronouns: Ele/dele
+
 <div align="center">
   <a href="https:https://www.linkedin.com/in/joaaofee/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaofee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
