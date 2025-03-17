@@ -1,4 +1,4 @@
-Olá, eu sou o João Ferreira Consultor de Negócios e Tecnologia, especializado em Data Science.
+Olá, eu sou o João. Consultor de Negócios e Tecnologia, especializado em Data Science.
 Ambiente destinado a trabalho profissionais.
 
 
